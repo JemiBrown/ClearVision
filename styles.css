@@ -1,0 +1,116 @@
+.hero {
+    width: 100%;
+    height: 500px;
+    background-image: url("photos/Window_Washing.jpg");
+    background-size: cover;
+    text-align: center;
+    padding: 10%;
+    margin: 0 1% 0 1%;
+}
+
+.quotebtn {
+    padding: 1% 4%;
+    background-color: #fad5ec;
+    border-radius: 10px;
+    margin: 150px 0 100px 0;
+}
+
+.btncolor {
+    color: black;
+    text-decoration: none;
+}
+
+.servicespreview {
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    padding: 5%;
+}
+
+.srvs {
+    margin: 5% 0 5% 0;
+}
+
+
+.rwwp {
+    width: 18vw;
+}
+
+.cwwp {
+    width: 18vw;
+}
+
+.pwashp {
+    width: 18vw;
+}
+
+.quality {
+    width: 100%;
+    height: 600px;
+    background-image: url("photos/long-edit.jpg");
+    background-size: cover;
+    text-align: center;
+    padding: 3%;
+    margin: 0 1% 0 1%;
+}
+
+.quality h2 {
+    padding: 2%;
+}
+
+.aboutusbtn {
+    padding: 1% 4%;
+    background-color: #fad5ec;
+    border-radius: 10px;
+    margin: 150px 0 100px 0;
+}
+
+.testimonials {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding: 5%;
+    margin: 0 1% 0 1%;
+    background-color: #aedaff
+    
+}
+
+.pinkheart {
+    width: 14vh;
+}
+
+.bushours {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding: 5%;
+}
+
+.mascot {
+    width: 17vh;
+}
+
+.tble {
+    margin: 1% 0 0 0;
+}
+
+.fter {
+    margin: 2% 0 2% 0; 
+}
+
+.est {
+    text-align:right;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+}
+
+.fbicon {
+    display: inline;
+}
