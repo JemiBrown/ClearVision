@@ -1,3 +1,5 @@
+/* index.html page*/
+
 .hero {
     width: 100%;
     height: 500px;
@@ -32,17 +34,10 @@
 }
 
 
-.rwwp {
+.this_size {
     width: 18vw;
 }
 
-.cwwp {
-    width: 18vw;
-}
-
-.pwashp {
-    width: 18vw;
-}
 
 .quality {
     width: 100%;
@@ -113,4 +108,25 @@
 
 .fbicon {
     display: inline;
+}
+
+/* start of css on Gallery */
+
+.galleryheadline {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.somespace {
+    padding: 2%;
+}
+
+/* contact us page */
+
+.contactsize {
+    width: 50%;
+    height: 75vh;
+    margin: 0 0 20px 300px; 
+    padding: 5%;
 }
